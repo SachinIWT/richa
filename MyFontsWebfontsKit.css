@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4269019, 2021-12-27T10:21:57-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: UniversLT-Condensed by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/pro-condensed/
+ * Copyright:  Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1987, 1991, 1994, 1998, 2004 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Libra
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "UniversLT-Condensed";
+  src: url('webFonts/UniversLTCondensed/font.woff2') format('woff2'), url('webFonts/UniversLTCondensed/font.woff') format('woff');
+}
+
